@@ -10,21 +10,11 @@ import Footer from "@/components/Global/Footer/index.vue";
 
 import InfoSectionsJSON from "@/data/homeSections.json";
 const infoSectionsArr = ref(InfoSectionsJSON.info);
-
-onMounted(() => {
-  const getIntroStatus = window.sessionStorage.getItem("@HAS_INTRO_CLONE");
-
-  if (getIntroStatus) {
-    gsap.to("#home-view", { opacity: 1, delay: 1, duration: 0.8 });
-  } else {
-    gsap.to("#home-view", { opacity: 1, delay: 13, duration: 0.8 });
-  }
-});
 </script>
 
 <template>
   <div>
-    <div id="home-view" class="opacity-0 bg-blue-600">
+    <div id="home-view" class="bg-blue-600">
       <div class="relative h-full">
         <Header />
         <Background />
