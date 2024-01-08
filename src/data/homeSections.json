@@ -1,0 +1,19 @@
+{
+  "info": [
+    {
+      "title": "Create an invite controlled space where you feel at home",
+      "text": "Discord servers are organized into channels with topics for you to collaborate, share, or simply talk about your day without clogging up a general chat",
+      "id": 0
+    },
+    {
+      "title": "It's easy to meet up here",
+      "text": "Hop into a voice channel when you're free. Friends on the same server can see you and join the channel without an invite",
+      "id": 1
+    },
+    {
+      "title": "For a few or a crowd",
+      "text": "Organize any community with moderation tools and personalized member access. Give special powers to members, create private channels, and more",
+      "id": 2
+    }
+  ]
+}

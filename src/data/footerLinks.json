@@ -1,0 +1,105 @@
+[
+  {
+    "group": "Product",
+    "links": [
+      { "name": "Download", "path": "/download" },
+      { "name": "Nitro", "path": "/nitro" },
+      { "name": "Status", "path": "/status" }
+    ]
+  },
+  {
+    "group": "Enterprise",
+    "links": [
+      {
+        "name": "About",
+        "path": "/about"
+      },
+      {
+        "name": "Jobs",
+        "path": "/jobs"
+      },
+      {
+        "name": "Branding",
+        "path": "/branding"
+      },
+      {
+        "name": "Newsroom",
+        "path": "/newsroom"
+      }
+    ]
+  },
+  {
+    "group": "Resources",
+    "links": [
+      {
+        "name": "College",
+        "path": "/college"
+      },
+      {
+        "name": "Support",
+        "path": "/support"
+      },
+      {
+        "name": "Safety Center",
+        "path": "/safetycenter"
+      },
+      {
+        "name": "Blog",
+        "path": "/blog"
+      },
+      {
+        "name": "Comments",
+        "path": "/comments"
+      },
+      {
+        "name": "Build",
+        "path": "/build"
+      },
+      {
+        "name": "Stream Kit",
+        "path": "/streamkit"
+      },
+      {
+        "name": "Creators",
+        "path": "/creators"
+      },
+      {
+        "name": "Community",
+        "path": "/community"
+      }
+    ]
+  },
+  {
+    "group": "Policy",
+    "links": [
+      {
+        "name": "Terms",
+        "path": "/terms"
+      },
+      {
+        "name": "Privacy",
+        "path": "/privacy"
+      },
+      {
+        "name": "Cookies Settings",
+        "path": "/cookiessettings"
+      },
+      {
+        "name": "Guidelines",
+        "path": "/guidelines"
+      },
+      {
+        "name": "Acknowledgements",
+        "path": "/acknowledgements"
+      },
+      {
+        "name": "Licenses",
+        "path": "/licenses"
+      },
+      {
+        "name": "Moderation",
+        "path": "/moderation"
+      }
+    ]
+  }
+]

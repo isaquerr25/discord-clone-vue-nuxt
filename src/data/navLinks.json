@@ -1,0 +1,36 @@
+{
+  "links": [
+    {
+      "path": "/",
+      "slug": "Home"
+    },
+    {
+      "path": "/download",
+      "slug": "Download"
+    },
+    {
+      "path": "/nitro",
+      "slug": "Nitro"
+    },
+    {
+      "path": "/discover",
+      "slug": "Discover"
+    },
+    {
+      "path": "/safety",
+      "slug": "Safety"
+    },
+    {
+      "path": "/support",
+      "slug": "Support"
+    },
+    {
+      "path": "/blog",
+      "slug": "Blog"
+    },
+    {
+      "path": "/careers",
+      "slug": "Careers"
+    }
+  ]
+}
