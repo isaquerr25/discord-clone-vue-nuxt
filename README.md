@@ -19,7 +19,7 @@
 
 <div align='center'>
   <p>If you want to see the website, 
-    <a href='https://discord-clone-guicoelhodev.vercel.app/' target='_blank'>click here</a>
+    <a href='https://discord-clone-vue-nuxt-pxcd.vercel.app/' target='_blank'>click here</a>
   </p>
 </div>
 
